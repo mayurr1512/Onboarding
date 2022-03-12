@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OnboardingApp</string>
+
+    <string name="title_onboarding_1">Welcome to MemeChat App!</string>
+    <string name="description_onboarding_1">MemeChat is THE ULTIMATE GO TO PLACE which serves all kinds of content to GenZs in the form of memes!</string>
+
+    <string name="title_onboarding_2">Deliver Memes to the Community</string>
+    <string name="description_onboarding_2">Create memes on Meme Chat and get viral. Get access to the ultimate meme community</string>
+
+    <string name="title_onboarding_3">"This is Business"</string>
+    <string name="description_onboarding_3">With Meme Chat you can earn money by creating and sharing memes.\n"PAISA HI PAISA🤝"</string>
+
+    <string name="skip">Skip</string>
+    <string name="finish">finish</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+</resources>
